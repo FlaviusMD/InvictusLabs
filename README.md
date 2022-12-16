@@ -50,7 +50,7 @@ The MVP will be a dashboard that the PolygonDAO will have complete access to. Th
 Now, the main question is how we will assess the health of these pools. To answer that, we will measure two things:
 
 1. The probability of default for each individual borrower in the pool.
-2. How other entities that these borrowers interact with can negatively impact the financial health of the initial borrowers (those in the Aave pools).
+2. How other entities that these borrowers interact with can negatively impact the financial health of the initial borrowers (those in the Polygon Aave pools).
 
 In summary, if our systems had been live a year ago, we claim they would have been able to detect, for example, how the simple loan that Gemini gave to Genesis (an apparently healthy institution) would eventually cause that loan to default, as Genesis was involved in other, riskier ventures.
 Systems like these are the standard in making TradFi institutional loans sustainable, but they have not yet been implemented in DeFi.
