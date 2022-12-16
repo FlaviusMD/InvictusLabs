@@ -23,13 +23,18 @@ We use both on-chain and off-chain data froms borrowers, along with a real-time 
 
 **Flavius Mardare** (https://www.linkedin.com/in/flaviusmardare/) is a Computer Science Grad from University of Birmingham, that’s been in the DeFi space for 5 years. Has grown engineering teams through his past role as a Startup Tech Lead while also having done business deals as a previous founder. 
 
-## Value added to Aave ##
-In light of recent events, we’ve seen that the DeFi space is opaque and gated, pushing investors away. The whole ecosystem is hurting from this, including Aave. Through the proposed approach, we strive to help Aave become the leader of both over-collateralized and under-collateralized lending by:
+## Value Added To Polygon ##
 
-- Bringing into Aave the already existing on-chain Institutional Borrowers while also forming new relationships with off-chain Institutions looking to borrow. Invictus Labs will focus exclusively on Institutional customers as we believe them to be the key to unlocking new levels of DeFi liquidity.
-- Bringing trust and transparency to the future Aave under-collateralized Liquidity Pools by measuring Systemic Risk through our systems. This means that we will be able to answer questions such as how the behaviour of a malicious borrower could "intoxicate" others, via ripple effects.
-- Vastly increased TVL as a consequence of the new type of borrowers (Trusted Institutions) brought into the ecosystem and the Risk Assessment System presented in the sections to follow.
-- Real-time event-driven Alert-System that will keep track of the risk assumed by Aave lenders and allow for more sustainable and stats-drive decisions.
+Part of the company scope is to stabilise the under-collateralised lending markets, starting with  Aave GHO Proposal and then continuing with Curve. This will bring forth in the DeFi ecosystem the stability and entity correlation understanding needed to finally allow the space to mature. Our one and only goal is to create verifiable trust.
+
+While our project is DeFi focused, we need to build on the Polygon chain in both Aave and Curve as we will process a high volume of transactions for our Institutional Clients. Invictus Labs will focus exclusively on Institutional customers as we believe them to be the key to unlocking new levels of DeFi liquidity. Our need for fast and cheap transactions made building on Polygon the obvious choice. 
+
+### By backing us in the journey of creating reliability in DeFi, Polygon will also benefit in two quantifiable ways:
+
+1. Polygon will be the main protocol for Institutional Lending transactions which will increase the transaction fees capture by the Polygon DAO.
+2. Transparency of the lending transactions happening in the Polygon Aave and Curve Markets through our dashboard. We believe this transparency to create trust and bring more liquidity to Polygon.
+
+For the purpose of clarifying the main way in which we'll accomplish the transactions increase discussed above, we have also outlined below the integration we’ll undertake with our partners at Aave.
 
 ## Proposed Aave Integration ##
 In the past few weeks, we've had discussions with different Aave DAO members, including AaveCompanies, to figure out which is the best integration to bring as much value to Aave as fast as possible.
@@ -40,7 +45,7 @@ Those discussions conclude with the following proposal:
 - We are also considering working on getting whitelisted for the Aave Arc Pool, to start the under-collateralised lending process in a more gated environment, before moving on to the final stages with $GHO.
 
 ## Further Clarifications ##
-The MVP will be a dashboard that the AaveDAO will have complete access to. This dashboard will allow the AaveDAO to check the health (risk metric) of an under-collateralised lending pool using the Systemic Risk algorithm outlined in the Grant Description. Furthermore, the Visualiser component of the dashboard will offer explainability into the measured risk. 
+The MVP will be a dashboard that the PolygonDAO will have complete access to. This dashboard will allow the PolygonDAO to check the health (risk metric) of an under-collateralised lending pool using the Systemic Risk algorithm outlined in the Grant Description. Furthermore, the Visualiser component of the dashboard will offer explainability into the measured risk. 
 
 Now, the main question is how we will assess the health of these pools. To answer that, we will measure two things:
 
