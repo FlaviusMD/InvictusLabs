@@ -23,6 +23,8 @@ We use both on-chain and off-chain data froms borrowers, along with a real-time 
 
 **Flavius Mardare** (https://www.linkedin.com/in/flaviusmardare/) is a Computer Science Grad from University of Birmingham, that’s been in the DeFi space for 5 years. Has grown engineering teams through his past role as a Startup Tech Lead while also having done business deals as a previous founder. 
 
+**Dan Costinescu** (https://www.linkedin.com/in/dan-n-costinescu-58baa7a/) has a Masters from Oxford and a PhD from Stanford, and has been a Quant Researcher for over a decade. Has numerous connections in TradFi and a deep understanding of the markets and applied risk management.
+
 ## Value Added To Polygon ##
 
 Part of the company scope is to stabilise the under-collateralised lending markets, starting with Aave GHO Proposal and then continuing with Curve. This will bring forth in the DeFi ecosystem the stability and entity correlation understanding needed to finally allow the space to mature. Our one and only goal is to create verifiable trust.
