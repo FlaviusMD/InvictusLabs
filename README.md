@@ -1,6 +1,5 @@
-# Invictus Labs
+# Invictus Labs - Backed by Aave
 ![image-description](assets/logo_transparent.png)
-# Backed By Aave
 ## Description ##
 
 The scope of Invictus Labs is to construct a platform for measuring the credit risk of DeFi (lending) pools. We achieve that by modelling the relationships between entities that partake in borrowing through causal inference and machine learning techniques. 
