@@ -25,7 +25,7 @@ We use both on-chain and off-chain data froms borrowers, along with a real-time 
 
 ## Value Added To Polygon ##
 
-Part of the company scope is to stabilise the under-collateralised lending markets, starting with  Aave GHO Proposal and then continuing with Curve. This will bring forth in the DeFi ecosystem the stability and entity correlation understanding needed to finally allow the space to mature. Our one and only goal is to create verifiable trust.
+Part of the company scope is to stabilise the under-collateralised lending markets, starting with Aave GHO Proposal and then continuing with Curve. This will bring forth in the DeFi ecosystem the stability and entity correlation understanding needed to finally allow the space to mature. Our one and only goal is to create verifiable trust.
 
 While our project is DeFi focused, we need to build on the Polygon chain in both Aave and Curve as we will process a high volume of transactions for our Institutional Clients. Invictus Labs will focus exclusively on Institutional customers as we believe them to be the key to unlocking new levels of DeFi liquidity. Our need for fast and cheap transactions made building on Polygon the obvious choice. 
 
@@ -37,7 +37,7 @@ While our project is DeFi focused, we need to build on the Polygon chain in both
 For the purpose of clarifying the main way in which we'll accomplish the transactions increase discussed above, we have also outlined below the integration we’ll undertake with our partners at Aave.
 
 ## Proposed Aave Integration ##
-In the past few weeks, we've had discussions with different Aave DAO members, including AaveCompanies, to figure out which is the best integration to bring as much value to Aave as fast as possible.
+In the past few weeks, we've had discussions with different Aave DAO members, including AaveCompanies, to figure out which is the best integration to bring as much value to Aave as fast as possible. They have officially endorsed our company through a Grant and have offered fruther support to facilitate the development of our novel approach to systemic risk assessment.
 Those discussions conclude with the following proposal:
 
 - The final stages of the integrations will be represented by our system acting as an approved Facilitator for the under-collateralized lending bucket of the $GHO proposal and will derive value through the creation of stable lending liquidity pools curated through our novel risk assessor.
